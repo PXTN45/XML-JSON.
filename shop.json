@@ -1,0 +1,35 @@
+{
+    "Customer" : [
+        {
+            "name": "Me.lee",
+            "item":[
+                {
+                    "name":"A4 paper",
+                    "qty":5,
+                    "price":120
+                },
+                {
+                    "name":"Ruler",
+                    "qty":2,
+                    "price":25
+                }
+            ]
+        },
+        {
+            "name": "Mr.Yue",
+            "item":[
+                {
+                    "name":"A4 paper",
+                    "qty":5,
+                    "price":120
+                },
+                {
+                    "name":"Ruler",
+                    "qty":2,
+                    "price":25
+                }
+            ]
+        }
+    ]
+
+}
